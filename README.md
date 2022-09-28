@@ -1,7 +1,7 @@
 # React App - Front-end development - E-commerce
 
 <div>
-Laptop 1300px
+Laptop 1024px
 <img src="https://user-images.githubusercontent.com/35015159/192800731-691940f0-b29c-46dc-bfbd-7a12b79cc6bf.jpg" />
 
 Tablet 768px
