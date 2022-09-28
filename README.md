@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React App - Front-end development - E-commerce
+
+<div>
+Laptop 1300px
+<img src="https://user-images.githubusercontent.com/35015159/192800731-691940f0-b29c-46dc-bfbd-7a12b79cc6bf.jpg" />
+
+Tablet 768px
+<img src="https://user-images.githubusercontent.com/35015159/192800957-3b552269-c2af-474d-b66c-cfd6b295478f.jpg"/>
+
+Mobile S - 360px
+
+<img src="https://user-images.githubusercontent.com/35015159/192800480-82b797a3-1681-4d53-b7da-24e6e351a858.jpg"  width="250" height="500" />
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
