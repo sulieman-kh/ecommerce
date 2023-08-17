@@ -9,7 +9,7 @@ Tablet 768px
 
 Mobile S - 360px
 
-<img src="https://user-images.githubusercontent.com/35015159/192800480-82b797a3-1681-4d53-b7da-24e6e351a858.jpg"  width="280" height="500" />
+<img src="https://user-images.githubusercontent.com/35015159/192800480-82b797a3-1681-4d53-b7da-24e6e351a858.jpg"  width="320" height="500" />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
